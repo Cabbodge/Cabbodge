@@ -1,16 +1,34 @@
-### Hi there 👋
+# Hello, geeks! 👋
 
-<!--
-**fareedik/fareedik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am _Fareed Ahmed_. I am a freelance software engineer experienced in Javascript (jk Typescript Rules) and in various JS frameowrks such as React, Vue, Svelte etc.
 
-Here are some ideas to get you started:
+## 💼 Professional Background
+- 🎓 Studying Bacholors In Computer Science at Karachi University
+- 💻 CEO of deskFox a software solution company
+- 🌱 Constantly learning and expanding my skills in TypeScript, React, Vue, Angular (Haha no. jkjk) and Svelte using libraries such as ThreeJS, Framer etc.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡️ Technologies and Tools
+Here are some of the technologies and tools I work with:
+
+- Programming Languages: JavaScript, TypeScript
+- Frameworks: React, Vue, Svelte with metaframeworks such as NextJS as well as tools like Astro 
+- Libraries: ThreeJS, Framer, 
+- Databases: MongoDB, PostgreSQL, SQL
+
+## 🌍 Find Me Online
+- 🌐 [Personal Website](https://fareed.bio)
+- 🐦 [Twitter](https://twitter.com/yourhandle)
+- 📷 [Instagram](https://www.instagram.com/yourhandle)
+
+## 🤝 Let's Connect
+I'm always interested in connecting with fellow developers, entrepreneurs, and tech enthusiasts. Feel free to reach out to me for collaborations, discussions, or just to say hello!
+
+If you have any suggestions or want to chat, don't hesitate to get in touch. I'm excited to meet like-minded individuals and learn from the community. 😄
+
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
+</p>
+
+<img src="stats.gif" width="90%"><br/><br/>
