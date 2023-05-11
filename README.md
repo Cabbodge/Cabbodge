@@ -16,8 +16,10 @@ Here are some of the technologies and tools I work with:
 - Databases: MongoDB, PostgreSQL, SQL
 
 ## 🌍 Find Me Online
+
 - 🌐 [Personal Website](https://fareed.bio)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
+  Still under construction :P
+- 🐦 [Twitter](https://twitter.com/ik_fareed)
 - 📷 [Instagram](https://www.instagram.com/yourhandle)
 
 ## 🤝 Let's Connect
