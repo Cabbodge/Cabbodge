@@ -20,7 +20,6 @@ Here are some of the technologies and tools I work with:
 - 🌐 [Personal Website](https://fareed.bio)
   Still under construction :P
 - 🐦 [Twitter](https://twitter.com/ik_fareed)
-- 📷 [Instagram](https://www.instagram.com/yourhandle)
 
 ## 🤝 Let's Connect
 I'm always interested in connecting with fellow developers, entrepreneurs, and tech enthusiasts. Feel free to reach out to me for collaborations, discussions, or just to say hello!
