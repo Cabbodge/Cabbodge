@@ -1,4 +1,4 @@
-# Hello, geeks! 👋
+# Hello There! 👋
 
 I am _Fareed Ahmed_. I am a freelance software engineer experienced in Javascript (jk Typescript Rules) and in various JS frameowrks such as React, Vue, Svelte etc.
 
