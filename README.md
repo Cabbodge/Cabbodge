@@ -47,7 +47,6 @@ Here are some of the technologies and tools I work with:
   <img src="https://github-readme-stats.vercel.app/api?username=Cabbodge&show_icons=true" />
 </picture>
 </div>
-## 
 <div align="center">  
   <img src="https://komarev.com/ghpvc/?username=Cabbodge&&style=flat-square" alt="Profile Views" />  
 </div>
